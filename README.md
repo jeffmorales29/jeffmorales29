@@ -3,7 +3,8 @@
 - 🏥 A 7 years experienced IT Support staff in one of Healthcare Facility in Laguna, Philippines
 - 🎓 I'm a Graduating Working Student for Bachelor of Science in Information Technology
 - 💻 An ordinary guy who wants to learn programming and new technologies on the net.
--   🌐 Still a beginner on Web Development
+- 🎨 I also do graphic layout and designs
+- 🌐 Still a beginner on Web Development
 - 🎧 Loves Music
 
 ### My Current Technologies and Tools

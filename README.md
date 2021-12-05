@@ -1,6 +1,6 @@
 ## Howdy! I'm Jeff 👋🤖
 
-- 🏥 An 8 years experienced IT Support staff in one of Healthcare Facility in Laguna, Philippines
+- 🏥 An 8 years experienced IT Support Specialist in one of Healthcare Facility in Laguna, Philippines
 - 🎓 Graduated with the course of Bachelor of Science in Information Technology
 - 💻 An ordinary guy who wants to learn programming and new technologies on the net.
 - 🎨 I also do graphic layout and designs

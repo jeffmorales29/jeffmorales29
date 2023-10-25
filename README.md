@@ -1,8 +1,8 @@
 ## Howdy! I'm Jeff 👋🤖
 
 - 🌐 I'm a Web Developer with also have an experience on IT Support and System administration.
-- 🏥 Had a 9 years experienced IT Support Specialist in one of Healthcare Facility in Laguna, Philippines.
 - 🏢 Currently working remotely as a web developer on a company based in Birmingham UK.
+- 🏥 Had a 9 years experienced IT Support Specialist in one of Healthcare Facility in Laguna, Philippines.
 - 🎓 Graduated with the course of Bachelor of Science in Information Technology and currently taking a Masteral Degree
 - 💻 An ordinary guy who enjoy programming as a hobby and keep learning new technologies on the net.
 - 🎨 I also do graphic layout and designs

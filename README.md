@@ -1,4 +1,4 @@
-## Howdy! I'm Jeff 👋🤖
+## Howdy! I'm Jeff 👋🤖  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 - 🌐 I'm a Web Developer with also have an experience on IT Support and System administration.
 - 🏢 Currently working remotely as a web developer on a company based in Birmingham UK.

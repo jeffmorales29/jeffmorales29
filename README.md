@@ -10,7 +10,7 @@
 - 🎧 Loves Music 
 
 ### My Current Technologies and Tools
-![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![PHP](https://img.icons8.com/color/30/php.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,azure,js,html,css,bootstrap,c,django,git,laravel,mysql,php,sublime,tailwind,vue)](https://skillicons.dev)
 
 
 ### Follow me on my Social Media

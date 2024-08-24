@@ -17,6 +17,4 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jeffmorales29?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjeffmorales29&screen_name=jeffmorales29)
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jeffmorales29)](https://github.com/jeffmorales29)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffmorales29&layout=compact)](https://github.com/jeffmorales29)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jeffmorales29)](https://github.com/jeffmorales29) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffmorales29&layout=compact)](https://github.com/jeffmorales29)

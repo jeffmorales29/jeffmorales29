@@ -5,6 +5,7 @@
 - 💻 An ordinary guy who enjoy programming as a hobby and keep learning new technologies on the net.
 - 🌎 Wordpress Enthusiast and GoHighLevel Expert
 - 🎨 I also do graphic layout and designs
+- 👪 Father of Ellie and Earl's Greatest Love
 - 🎧 Loves Music 
 
 ## 💼 My Current Technologies and Tools

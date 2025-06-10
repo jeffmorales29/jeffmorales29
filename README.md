@@ -3,10 +3,8 @@
 - 🏥 Had a 9 years experienced IT Support Specialist in one of Healthcare Facility in Laguna, Philippines.
 - 🎓 Graduated with the course of Bachelor of Science in Information Technology and currently taking a Masteral Degree
 - 💻 An ordinary guy who enjoy programming as a hobby and keep learning new technologies on the net.
+- 🌎 Wordpress Enthusiast and GoHighLevel Expert
 - 🎨 I also do graphic layout and designs
-- 🎧 Loves Music
-- 🌎 Wordpress Enthusiast
-- 🎨 Do graphic layout and designs
 - 🎧 Loves Music 
 
 ## 💼 My Current Technologies and Tools
